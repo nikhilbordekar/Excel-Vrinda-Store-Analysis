@@ -15,3 +15,13 @@ This Excel Dashboard provides a comprehensive analysis of Vrinda Store's sales a
 - **Sales Comparison - Men vs Women:** Comparative analysis of sales between different genders.
 - **Slicers for Enhanced Interactivity:** Utilize slicers to customize and filter data according to specific criteria.
 
+## Data Cleaning
+Prior to visualization, the dataset underwent thorough cleaning to ensure accurate and reliable insights. This included addressing missing values, standardizing formats, and enhancing data quality.
+
+## Usage
+Explore this dashboard to gain valuable insights into Vrinda Store's sales trends, customer demographics, and order statuses. The interactive features provided by slicers allow for a tailored exploration of the data, empowering users to extract meaningful information.
+
+## Instructions
+1. Open the Excel file to access the dashboard.
+2. Utilize the slicers to filter data based on specific parameters of interest.
+3. Analyze the visualizations to understand sales patterns, top-performing categories, and customer demographics.
