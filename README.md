@@ -25,3 +25,8 @@ Explore this dashboard to gain valuable insights into Vrinda Store's sales trend
 1. Open the Excel file to access the dashboard.
 2. Utilize the slicers to filter data based on specific parameters of interest.
 3. Analyze the visualizations to understand sales patterns, top-performing categories, and customer demographics.
+
+## Full Screen Image of Dashboard
+
+<img width="960" alt="Screenshot 2023-11-08 194221" src="https://github.com/nikhilbordekar/Excel-Vrinda-Store-Analysis/assets/121897260/21b36da4-bd3f-4fa5-b534-4f6231e828d8">
+
